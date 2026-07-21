@@ -56,6 +56,7 @@
 ## 📫 Construisons quelque chose ensemble
 
 >[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-braganza/)
+
 >📧 Email professionnel : brandoncomptedevpro@gmail.com
 
 >🚀 Disponible pour échanger autour de projets, collaborations et nouvelles idées.
