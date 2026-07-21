@@ -1,5 +1,8 @@
-## Hi there 👋
+# Bonjour, je suis Brandon 👋
+## Concepteur et Développeur d'applications mais pas que !
 
+### Retrouvez moi sur mes réseaux professionnels 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-braganza/)
 <!--
 **Hombredelanoche/Hombredelanoche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
