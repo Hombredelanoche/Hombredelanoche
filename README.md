@@ -38,6 +38,7 @@
 
 ## Statistiques GitHub
 
+[![Hombredelanoche GitHub stats](https://github-stats-extended.vercel.app/api?username=Hombredelanoche)](https://github.com/stats-organization/github-stats-extended)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hombredelanoche&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Statistiques GitHub de Brandon" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hombredelanoche&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Langages les plus utilisés par Brandon" />
