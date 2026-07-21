@@ -55,7 +55,7 @@
 
 - 🥊 **L'Atelier des Boxeurs** — conception d'une plateforme web & application mobile pour accompagner un coach sportif dans son activité
 - 🐍 **Python** — montée en compétences et exploration de nouveaux usages
-- 🔷 Azure — montée en compétences sur le cloud, l’architecture et les solutions Microsoft Azure
+- 🔷 **Azure** — montée en compétences sur le cloud, l’architecture et les solutions Microsoft Azure
   
 - 🌍 Curiosités personnelles :
   - 🍳 Cuisine et découverte de nouvelles saveurs
