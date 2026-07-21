@@ -39,6 +39,11 @@
 ### Conteneurs & Outils
 
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Cloud
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Statistiques GitHub
 
@@ -51,7 +56,8 @@
 
 - 🥊 **L'Atelier des Boxeurs** — conception d'une plateforme web & application mobile pour accompagner un coach sportif dans son activité
 - 🐍 **Python** — montée en compétences et exploration de nouveaux usages
-
+- 🔷 Azure — montée en compétences sur le cloud, l’architecture et les solutions Microsoft Azure
+  
 - 🌍 Curiosités personnelles :
   - 🍳 Cuisine et découverte de nouvelles saveurs
   - 🌸 Parfums et univers olfactif
