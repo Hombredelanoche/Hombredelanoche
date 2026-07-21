@@ -39,14 +39,15 @@
 ## Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hombredelanoche&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Statistiques GitHub de Brandon" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hombredelanoche&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Langages les plus utilisés par Brandon" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hombredelanoche&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Statistiques GitHub de Brandon" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hombredelanoche&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Langages les plus utilisés par Brandon" />
 </p>
 
-## 📈 Activité en cours
+## 📈 Ce que je construis actuellement
 
 - 🥊 **L'Atelier des Boxeurs** — conception d'une plateforme web & application mobile pour accompagner un coach sportif dans son activité
 - 🐍 **Python** — montée en compétences et exploration de nouveaux usages
+
 - 🌍 Curiosités personnelles :
   - 🍳 Cuisine et découverte de nouvelles saveurs
   - 🌸 Parfums et univers olfactif
