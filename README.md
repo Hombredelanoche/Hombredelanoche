@@ -13,6 +13,7 @@
 ## 🛠️ Technologies & Outils
 
 ### Langages
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,6 +22,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Librairies
+
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -29,19 +31,20 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Desktop & Systèmes
+
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Conteneurs & Outils
+
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 
 ## Statistiques GitHub
 
-[![Hombredelanoche GitHub stats](https://github-stats-extended.vercel.app/api?username=Hombredelanoche)](https://github.com/stats-organization/github-stats-extended)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hombredelanoche&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Statistiques GitHub de Brandon" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hombredelanoche&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Langages les plus utilisés par Brandon" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Hombredelanoche" alt="Statistiques GitHub de Brandon" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hombredelanoche" alt="Langages les plus utilisés par Brandon" />
 </p>
 
 ## 📈 Ce que je construis actuellement
