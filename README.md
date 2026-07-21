@@ -38,8 +38,10 @@
 
 ## Statistiques GitHub
 
-![Contributions](https://github-readme-stats.vercel.app/api?username=Hombredelanoche&show_icons=true&theme=radical)
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Hombredelanoche&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hombredelanoche&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Statistiques GitHub de Brandon" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hombredelanoche&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Langages les plus utilisés par Brandon" />
+</p>
 
 ## 📈 Activité en cours
 
@@ -53,9 +55,9 @@
 
 ## 📫 Construisons quelque chose ensemble
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-braganza/)
-📧 Email professionnel : brandoncomptedevpro@gmail.com
+>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-braganza/)
+>📧 Email professionnel : brandoncomptedevpro@gmail.com
 
-🚀 Disponible pour échanger autour de projets, collaborations et nouvelles idées.
+>🚀 Disponible pour échanger autour de projets, collaborations et nouvelles idées.
 
 ### Brandon — Elhombredelanoche 🌙
